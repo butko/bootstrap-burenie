@@ -10,6 +10,41 @@
 	overflow:hidden;
 }
 
+
+.circle-image-container {
+	width:300px;
+	height:300px;
+	margin: 0 auto 30px auto;
+}
+
+.circle-image-container img {
+	width:100%;
+	height:auto;
+	border-radius: 500px;
+	border: 0;
+}
+
+.circle-image-container:hover {
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.marketing .col-lg-4 p {
+	min-height: 70px;
+    margin-top: 20px;
+}
+
+.featurette .col-md-7 {
+	padding:20px;
+}
+
+.featurette .lead  {
+	padding-top:20px;
+}
+
+.featurette-heading {
+	margin-top:0;
+}
+
 /*----------------------------------------------------
 	Описываем оформление и поведение блока, который содержит ссылки на социальные сети
 ----------------------------------------------------*/
