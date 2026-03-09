@@ -3,7 +3,13 @@
 	box-sizing: border-box;
 	width: fit-content;
 	height: fit-content;
-	max-width: 500px
+	max-width: 500px;
+}
+
+@media (max-width: 768px) {
+	.featurette img {
+		max-width: -webkit-fill-available;
+	}
 }
 
 .order-md-1, .order-md-2 {
