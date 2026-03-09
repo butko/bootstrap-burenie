@@ -50,6 +50,23 @@
 .featurette-heading {
 	margin-top:0;
 }
+
+/*----------------------------------------------------
+	Карусель
+----------------------------------------------------*/
+.slider_mobile {
+	display:none;
+}
+
+@media (max-width: 768px) {
+	.slider_desktop {
+		display:none;		
+	}
+	.slider_mobile {
+		display:block;
+	}
+}
+
 .carousel-item img {
 	width:100%;
 }
