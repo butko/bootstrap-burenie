@@ -174,6 +174,6 @@
 	  
 <? include "footer.inc" ?>	  	  
  
-
+</main>
   </body>
 </html>

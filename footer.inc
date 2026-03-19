@@ -21,7 +21,7 @@
           <a href="#">Политика конфиденциальности</a>
         </p>
       </footer>
-    </main>
+
     <script
       src="assets/dist/js/bootstrap.bundle.min.js"
       class="astro-vvvwv3sm"
