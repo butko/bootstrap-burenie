@@ -100,7 +100,6 @@
     <main>
 	<div class="container">
         <!-- START THE FEATURETTES -->
-        <hr class="featurette-divider" />
 		<a name="kesson1">
         <div class="row featurette">
           <div class="col-md-7">

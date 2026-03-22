@@ -100,8 +100,7 @@
         <main>
 	<div class="container">
         <!-- START THE FEATURETTES -->
-        <hr class="featurette-divider" />
-		<a name="burenie">
+		<a name="leto1">
         <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading fw-normal lh-1">
@@ -115,11 +114,11 @@
             </p>
           </div>
           <div class="col-md-5">
-			<img src="img/square1.jpg">
+			<img src="img/leto1.jpg">
           </div>
         </div>
         <hr class="featurette-divider" />
-		<a name="vodoochistka">
+		<a name="leto2">
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
             <h2 class="featurette-heading fw-normal lh-1">
@@ -133,11 +132,11 @@
             </p>
           </div>
           <div class="col-md-5 order-md-1">
-			<img src="img/square2.jpg">
+			<img src="img/leto2.jpg">
           </div>
         </div>
         <hr class="featurette-divider" />
-		<a name="kanalizatsiya">
+		<a name="leto3">
         <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading fw-normal lh-1">
@@ -151,7 +150,7 @@
             </p>
           </div>
           <div class="col-md-5">
-			<img src="img/square3.jpg">
+			<img src="img/leto3.jpg">
           </div>
         </div>
         <hr class="featurette-divider" />

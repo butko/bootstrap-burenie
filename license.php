@@ -100,8 +100,7 @@
     <main>
 	<div class="container">
        <!-- START THE FEATURETTES -->
-        <hr class="featurette-divider" />
-		<a name="burenie">
+		<a name="license1">
         <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading fw-normal lh-1">
@@ -119,7 +118,7 @@
           </div>
         </div>
         <hr class="featurette-divider" />
-		<a name="vodoochistka">
+		<a name="license2">
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
             <h2 class="featurette-heading fw-normal lh-1">
@@ -137,7 +136,7 @@
           </div>
         </div>
         <hr class="featurette-divider" />
-		<a name="kanalizatsiya">
+		<a name="license3">
         <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading fw-normal lh-1">
