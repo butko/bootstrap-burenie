@@ -97,7 +97,8 @@
   <body>
   
 <? include "header.inc" ?>  
-    
+        <main>
+	<div class="container">
         <!-- START THE FEATURETTES -->
         <hr class="featurette-divider" />
 		<a name="burenie">
